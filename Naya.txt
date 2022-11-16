@@ -1,2 +1,5 @@
-wdsubnidufnun
-waonfrieurnwn
+remote - Dealing with URLs
+add - adding new one
+origin - What is the url to be added
+push - Sharing changes to git to github
+origin main -  selecting the branch
